@@ -9,5 +9,9 @@ main()
         fact=fact*i;
         i++;
     }while(i<=n);
-    printf("\t\tThe factorial of %d is %d\t\t",n,fact);
+    
+    printf("\tAnswer of this Factorial %d is %d\t\t",n,fact);
+    
+    printf("This code is completed");
+    
 }
